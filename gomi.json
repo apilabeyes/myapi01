@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "title": "ゴミ出し情報API",
-    "description": "観光地情報を登録して、カテゴリで検索して、詳細情報を取得するAPIです。",
+    "description": "ゴミの品目と品目ごとのゴミの出し方、品目・地域ごとの集配日と収集予定時間の情報を取得するAPIです。",
     "version": "1.0",
     "license": {
       "name": "Apache 2.0",
